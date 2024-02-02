@@ -1,5 +1,5 @@
 {
-  "name": "whatsapp-bot (X-BOT)",
+  "name": "Mcross X (X-BOT)",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
@@ -30,7 +30,7 @@
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
       "required": true,
-      "value": ""
+      "value": "c51c92c2-7af4-40f9-925a-a4816330159a"
     },
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
@@ -40,7 +40,7 @@
     "statusview": {
       "description": "make it true if you want bot to view status",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "autoRead": {
       "description": "make it true if you want bot to read messages",
