@@ -25,12 +25,12 @@
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": "!"
+      "value": "✅"
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
       "required": true,
-      "value": "c51c92c2-7af4-40f9-925a-a4816330159a"
+      "value": "f70feb67-eceb-4ea4-8f9a-ee1fe0cfec69"
     },
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
